@@ -12,8 +12,8 @@ I'm Eliaquim. I love programming in python.
 
 ### ⚡ Recent Activity
 ---
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
