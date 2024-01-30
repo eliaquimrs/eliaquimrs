@@ -2,7 +2,7 @@
 
 I'm Eliaquim. I love programming in python.
 
-- 🔭 I’m currently working on a Python package to [dynamic choices via UNIX terminal]()
+- 🔭 I’m currently working on a Python package to [dynamic choices via UNIX terminal](https://github.com/eliaquimrs/terminal-utils)
 - 🌱 I’m currently learning about AngularJS  <img height="15" width="15" src="https://cdn.simpleicons.org/Angular/red" /> .
 - 📫 How to reach me:
   <a href="https://twitter.com/EliaquimRodrig7"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FEliaquimRodrig7"/></a> |
