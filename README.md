@@ -12,10 +12,6 @@ I'm Eliaquim. I love programming in python.
 
 ### ⚡ Recent Activity
 ---
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 30th, 2024, 6:01:40 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
 2. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
@@ -33,6 +29,9 @@ Last Updated: Tuesday, January 30th, 2024, 6:01:40 PM
 14. 📔 Created new repository [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
 <!--RECENT_ACTIVITY:end-->
 
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, January 30th, 2024, 6:01:40 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
