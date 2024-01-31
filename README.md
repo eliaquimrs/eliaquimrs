@@ -5,7 +5,7 @@ I'm Eliaquim. I love programming in python.
 - 🔭 I’m currently working on a Python package to [dynamic choices via UNIX terminal](https://github.com/eliaquimrs/terminal-utils)
 - 🌱 I’m currently learning about AngularJS  <img height="15" width="15" src="https://cdn.simpleicons.org/Angular/red" /> .
 - 📫 How to reach me:
-  <a href="https://twitter.com/EliaquimRodrig7"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FEliaquimRodrig7"/></a> |
+  <a href="https://twitter.com/eliaquimrsv"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Feliaquimrsv"/></a> |
   <a style="margin-left=20px" href="https://www.instagram.com/eliaquimrs/"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram"/></a> |
   <a href="https://www.facebook.com/eliaquim.rodrigues.1"><img height="20" width="20" src="https://cdn.simpleicons.org/facebook"/></a> |
   <a href="https://www.linkedin.com/in/eliaquim-rodrigues-395358157/"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin"/></a>
