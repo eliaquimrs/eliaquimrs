@@ -8,7 +8,7 @@ I'm Eliaquim. I love programming in python.
   <a href="https://twitter.com/eliaquimrsv"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Feliaquimrsv"/></a> |
   <a style="margin-left=20px" href="https://www.instagram.com/eliaquimrs/"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram"/></a> |
   <a href="https://www.facebook.com/eliaquim.rodrigues.1"><img height="20" width="20" src="https://cdn.simpleicons.org/facebook"/></a> |
-  <a href="https://www.linkedin.com/in/eliaquim-rodrigues-395358157/"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin"/></a>
+  <a href="https://www.linkedin.com/in/eliaquimrs"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin"/></a>
 
 ### ⚡ Recent Activity
 ---
