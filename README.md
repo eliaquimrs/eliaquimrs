@@ -13,16 +13,16 @@ I'm Eliaquim. I love programming in python.
 ### ⚡ Recent Activity
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.2 - Testing PYPL publish](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.2) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
-2. ✌️ Released [0.0.1: First release](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.1) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
-3. ⬆️ Pushed 1 commit(s) to [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
-4. ✌️ Released [0.0.1: First release](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.1) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
-5. ⬆️ Pushed 1 commit(s) to [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
-6. ✌️ Released [0.0.1: First release](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.1) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+1. ⬆️ Pushed 1 commit(s) to [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+2. ✌️ Released [0.0.2 - Testing PYPL publish](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.2) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+3. ✌️ Released [0.0.1: First release](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.1) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+4. ⬆️ Pushed 1 commit(s) to [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+5. ✌️ Released [0.0.1: First release](https://github.com/eliaquimrs/terminal-utils/releases/tag/0.0.1) in [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
+6. ⬆️ Pushed 1 commit(s) to [eliaquimrs/terminal-utils](https://github.com/eliaquimrs/terminal-utils)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 5th, 2024, 11:37:42 AM
+Last Updated: Monday, February 5th, 2024, 12:16:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
