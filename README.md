@@ -2,8 +2,8 @@
 
 I'm Eliaquim. I love programming in python.
 
-- 🔭 I’m currently working on a Python package to [dynamic choices via UNIX terminal](https://github.com/eliaquimrs/terminal-utils)
-- 🌱 I’m currently learning about AngularJS  <img height="15" width="15" src="https://cdn.simpleicons.org/Angular/red" /> .
+- 🔭 I’m currently working on a [classic snake game with Python](https://github.com/eliaquimrs/snake-game)
+- 🌱 I’m currently learning about pygames library for Python  <img height="15" width="15" src="https://cdn.simpleicons.org/Python" /> .
 - 📫 How to reach me:
   <a href="https://twitter.com/eliaquimrsv"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Feliaquimrsv"/></a> |
   <a style="margin-left=20px" href="https://www.instagram.com/eliaquimrs/"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram"/></a> |
