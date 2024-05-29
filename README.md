@@ -18,7 +18,7 @@ I'm Eliaquim. I love programming in python.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 29th, 2024, 5:24:45 AM
+Last Updated: Wednesday, May 29th, 2024, 5:40:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
