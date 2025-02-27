@@ -2,8 +2,8 @@
 
 I'm Eliaquim. I love programming in python.
 
-- 🔭 I’m currently working on a [classic snake game with Python](https://github.com/eliaquimrs/snake-game)
-- 🌱 I’m currently learning about pygames library for Python  <img height="15" width="15" src="https://cdn.simpleicons.org/Python" /> .
+- 🔭 I’m currently working on a [mantis but tracker API with python](https://github.com/eliaquimrs/python-mantis)
+- 🌱 I’m currently learning about Mantis But tracker HTTP API.
 - 📫 How to reach me:
   <a href="https://twitter.com/eliaquimrsv"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Feliaquimrsv"/></a> |
   <a style="margin-left=20px" href="https://www.instagram.com/eliaquimrs/"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram"/></a> |
