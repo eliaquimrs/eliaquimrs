@@ -2,7 +2,7 @@
 
 I'm Eliaquim. I love programming in python.
 
-- 🔭 I’m currently working on a [mantis but tracker API with python](https://github.com/eliaquimrs/python-mantis)
+- 🔭 I’m currently working on a [mantis but tracker API for python language](https://github.com/eliaquimrs/python-mantis) (With my brothers: [@Elton Pescador](https://github.com/FishermanXD) and [@Rafael Silva](https://github.com/rafalexandre1))
 - 🌱 I’m currently learning about Mantis But tracker HTTP API.
 - 📫 How to reach me:
   <a href="https://twitter.com/eliaquimrsv"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Feliaquimrsv"/></a> |
