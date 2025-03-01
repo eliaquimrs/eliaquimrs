@@ -13,18 +13,18 @@ I'm Eliaquim. I love programming in python.
 ### ⚡ Recent Activity
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
+1. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 2. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
 3. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
 4. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
-5. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-6. ✌️ Released [v0.2](https://github.com/eliaquimrs/python-mantis/releases/tag/0.2) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-7. ✌️ Released [v0.1](https://github.com/eliaquimrs/python-mantis/releases/tag/0.1) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-8. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+5. ⬆️ Pushed 1 commit(s) to [eliaquimrs/eliaquimrs](https://github.com/eliaquimrs/eliaquimrs)<br>
+6. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+7. ✌️ Released [v0.2](https://github.com/eliaquimrs/python-mantis/releases/tag/0.2) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+8. ✌️ Released [v0.1](https://github.com/eliaquimrs/python-mantis/releases/tag/0.1) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 1st, 2025, 4:12:17 AM
+Last Updated: Saturday, March 1st, 2025, 5:16:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
