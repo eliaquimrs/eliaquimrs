@@ -13,18 +13,18 @@ I'm Eliaquim. I love programming in python.
 ### ⚡ Recent Activity
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.6](https://github.com/eliaquimrs/python-mantis/releases/tag/0.6) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+1. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 2. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-3. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-4. ✌️ Released [v0.5](https://github.com/eliaquimrs/python-mantis/releases/tag/0.5) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+3. ✌️ Released [v0.6](https://github.com/eliaquimrs/python-mantis/releases/tag/0.6) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+4. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 5. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-6. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
-7. ✌️ Released [v0.4](https://github.com/eliaquimrs/python-mantis/releases/tag/0.4) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+6. ✌️ Released [v0.5](https://github.com/eliaquimrs/python-mantis/releases/tag/0.5) in [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
+7. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 8. ⬆️ Pushed 1 commit(s) to [eliaquimrs/python-mantis](https://github.com/eliaquimrs/python-mantis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 4:11:49 PM
+Last Updated: Wednesday, March 5th, 2025, 5:15:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
