@@ -14,11 +14,10 @@ I'm Eliaquim. I love programming in python.
 ---
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [axiros/no-asyncio-nats](https://github.com/axiros/no-asyncio-nats)<br>
-2. ⭐ Starred [joaopbini/feriados-brasil](https://github.com/joaopbini/feriados-brasil)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 4th, 2026, 7:22:23 PM
+Last Updated: Wednesday, February 4th, 2026, 8:22:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **eliaquimrs/eliaquimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
